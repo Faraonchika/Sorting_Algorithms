@@ -1,2 +1,2 @@
 # Sorting_Algorithms
-Sorting algorithms from scratch
+Here you can find some sorting algorithms that are coded in Python from scratch
